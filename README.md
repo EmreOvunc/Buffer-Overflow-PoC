@@ -1,6 +1,17 @@
 # Buffer-Overflow-PoC
 Examples of simple code patterns causing BOF
 
+## Tools 
+**https://www.immunityinc.com/products/debugger/**
+
+**http://www.ollydbg.de/download.htm**
+
+**https://www.python.org/downloads/**
+
+**https://www.sublimetext.com/3**
+
+
+
 ### Kolibri HTTP Server v2.0 Egghunter Exploit Example
 ![alt tag](https://emreovunc.com/projects/Kolibri-Egghunter-2.png)
 
