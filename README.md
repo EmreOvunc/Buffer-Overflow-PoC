@@ -10,6 +10,8 @@ Examples of simple code patterns causing BOF
 
 **https://www.sublimetext.com/3**
 
+**https://www.metasploit.com/download**
+
 
 
 ### Kolibri HTTP Server v2.0 Egghunter Exploit Example
