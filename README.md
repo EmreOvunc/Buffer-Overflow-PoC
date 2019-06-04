@@ -22,3 +22,10 @@ Examples of simple code patterns causing BOF
 
 ### FreeFloat FTP Server Buffer Overflow Exploit Example
 ![alt tag](https://emreovunc.com/projects/FreeFloatServer-BoF-Exploit.png)
+
+
+### Winamp 5.12 Egghunter Exploit Example
+![alt tag](https://emreovunc.com/projects/Winamp_5.12_Egghunter_Exploit.png)
+
+
+![alt tag](https://emreovunc.com/projects/Winamp_5.12_Egghunter_Exploit_2.png)
