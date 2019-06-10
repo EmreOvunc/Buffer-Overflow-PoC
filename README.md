@@ -29,3 +29,7 @@ Examples of simple code patterns causing BOF
 
 
 ![alt tag](https://emreovunc.com/projects/Winamp_5.12_Egghunter_Exploit_2.png)
+
+
+### HP NNM Buffer Overflow Exploit 
+![alt tag](https://emreovunc.com/projects/hp_nnm_bof_exploit.png)
