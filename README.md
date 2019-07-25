@@ -37,3 +37,10 @@ Examples of simple code patterns causing BOF
 ![alt tag](https://emreovunc.com/projects/hp_nnm_bof_exploit_2.png)
 
 ![alt tag](https://emreovunc.com/projects/hp_nnm_exploit_3.png)
+
+### VulnServer TRUN Command Overflow Exploit
+![alt tag](https://emreovunc.com/projects/VulnServer_TRUN_Command_Exploit_01.png)
+
+![alt tag](https://emreovunc.com/projects/VulnServer_TRUN_Command_Exploit_02.png)
+
+![alt tag](https://emreovunc.com/projects/VulnServer_TRUN_Command_Exploit_03.png)
